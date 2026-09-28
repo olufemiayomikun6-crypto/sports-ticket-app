@@ -17,9 +17,7 @@ Sports Ticket App is a project that allows users to view sports events and book 
 ## Technologies
 
 - React
-- HTML
-- CSS
-- Node.js
+- SpringBoot
 - MongoDB
 
 ## Author
